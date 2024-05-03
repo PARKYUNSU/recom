@@ -198,7 +198,7 @@ new_df = new_df.drop_duplicates()
 #df to json
 json_data = new_df.to_json(orient='records')
 
-conn = sqlite3.connect('project4_1.db')
+conn = sqlite3.connect('db/project4.db')
 cur = conn.cursor()
 
 # 데이터베이스에 테이블이 없는 경우에만 테이블 생성
