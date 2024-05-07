@@ -1,6 +1,6 @@
 # 음식점 추천 시스템 개발 및 웹사이트 구현
 
-(Development and Implementation of Restaurant Recommendation System: Cosine Similarity Analysis using Vectorized Blog Reviews and Restaurant Categories)
+(Restaurant Recommendation System and Web Service: Cosine Similarity Analysis using Vectorized Blog Reviews and Restaurant Categories)
 
 <img width="600" alt="스크린샷 2024-05-03 오후 2 08 53" src="https://github.com/PARKYUNSU/recom/assets/125172299/5c8d73c9-b60b-4414-b5c8-df7fd03559f3">
 
