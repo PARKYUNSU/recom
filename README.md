@@ -1,4 +1,4 @@
-# 음식점 추천 시스템 개발 및 웹사이트 구현
+# Restaurant Reco
 
 (Restaurant Recommendation System and Web Service: Cosine Similarity Analysis using Vectorized Blog Reviews and Restaurant Categories)
 
